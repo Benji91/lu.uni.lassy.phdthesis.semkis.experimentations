@@ -28,6 +28,7 @@ Environmental requirements to be fulfilled before proceeding to the _Execution_.
   - Matplotlib (https://matplotlib.org)
   - Bokeh (https://bokeh.org)
   - scikit-learn (https://scikit-learn.org/stable/)
+  - scikit-image (https://scikit-image.org)
   - tensorflow-gpu (https://www.tensorflow.org/install/gpu), to configure tensorflow-gpu follow the instructions on the webpage
   - opencv (https://opencv.org)
   - keras (https://keras.io)
