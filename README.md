@@ -20,5 +20,21 @@ It contains a concrete experimentation of our process focusing on the developmen
 
 ### 2. Run experiment
 #### 2.1 Prerequisites
+Environmental requirements to be fulfilled before proceeding to the _Execution_.
+
+- Install Python >= v3.7 
+- Install Python Libraries
+  - Numpy (https://numpy.org)
+  - Matplotlib (https://matplotlib.org)
+  - Bokeh (https://bokeh.org)
+  - scikit-learn (https://scikit-learn.org/stable/)
+  - tensorflow-gpu (https://www.tensorflow.org/install/gpu), to configure tensorflow-gpu follow the instructions on the webpage
+  - opencv (https://opencv.org)
+  - keras (https://keras.io)
+- Git
+- A Python development IDE such as Jetbrains Pycharm
+
+
+
 
 #### 2.2 Execution
